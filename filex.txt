@@ -1,3 +1,4 @@
 nuevo feature
 
 <<<code>>> nuevas cosas por hacer!
+<<<code>>> conflicto
